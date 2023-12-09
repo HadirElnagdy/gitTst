@@ -6,4 +6,8 @@ public void printHelloGit{
 	System.out.println("Hello Git!");
 }
 
+public void printHelloGitHub{
+	System.out.println("Hello GitHub!");
+}
+
 }

@@ -7,5 +7,8 @@ public void printHello{
 	System.out.println("Hello!");
 }
 
+public void printGit{
+	System.out.println("Hello Git!");
+}
 
 }
